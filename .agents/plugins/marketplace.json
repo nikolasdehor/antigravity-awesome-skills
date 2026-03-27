@@ -1,0 +1,20 @@
+{
+  "name": "antigravity-awesome-skills",
+  "interface": {
+    "displayName": "Antigravity Awesome Skills"
+  },
+  "plugins": [
+    {
+      "name": "antigravity-awesome-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/antigravity-awesome-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

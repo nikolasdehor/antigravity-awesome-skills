@@ -7,6 +7,7 @@ import re
 import sys
 from pathlib import Path
 
+from _safe_files import is_safe_regular_file
 from _project_paths import find_repo_root
 from validate_skills import configure_utf8_output, has_when_to_use_section, parse_frontmatter
 
@@ -115,6 +116,9 @@ def append_section(content: str, section_text: str) -> str:
 
 
 def update_skill_file(skill_path: Path, *, add_missing: bool = False) -> tuple[bool, list[str]]:
+    if not is_safe_regular_file(skill_path):
+        return False, []
+
     content = skill_path.read_text(encoding="utf-8")
     metadata, _ = parse_frontmatter(content, skill_path.as_posix())
     if not metadata:
@@ -166,6 +170,9 @@ def main() -> int:
             continue
 
         skill_path = Path(root) / "SKILL.md"
+        if not is_safe_regular_file(skill_path):
+            print(f"SKIP {skill_path.relative_to(repo_root)} [symlinked_or_unreadable]")
+            continue
         content = skill_path.read_text(encoding="utf-8")
         metadata, _ = parse_frontmatter(content, skill_path.as_posix())
         if not metadata or not isinstance(metadata.get("description"), str):

@@ -1,0 +1,38 @@
+{
+  "name": "antigravity-awesome-skills",
+  "version": "8.10.0",
+  "description": "Repository-backed Codex plugin for the Antigravity Awesome Skills library.",
+  "author": {
+    "name": "sickn33 and contributors",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills"
+  },
+  "homepage": "https://github.com/sickn33/antigravity-awesome-skills",
+  "repository": "https://github.com/sickn33/antigravity-awesome-skills",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skills",
+    "agentic-skills",
+    "developer-tools",
+    "productivity"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Antigravity Awesome Skills",
+    "shortDescription": "1,328+ reusable skills for coding, security, product, and ops workflows.",
+    "longDescription": "Install the Antigravity Awesome Skills catalog as a Codex plugin and expose the repository's curated skills library through a single marketplace entry.",
+    "developerName": "sickn33 and contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/sickn33/antigravity-awesome-skills",
+    "defaultPrompt": [
+      "Use @brainstorming to plan a new feature.",
+      "Use @test-driven-development to fix a bug safely.",
+      "Use @lint-and-validate to verify this branch."
+    ],
+    "brandColor": "#111827"
+  }
+}

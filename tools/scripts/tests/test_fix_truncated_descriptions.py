@@ -107,6 +107,34 @@ Lightweight calendar automation with standalone OAuth authentication and event m
                 updated,
             )
 
+    def test_update_skill_file_skips_symlinked_skill_markdown(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            skill_dir = root / "skill"
+            outside_dir = root / "outside"
+            skill_dir.mkdir()
+            outside_dir.mkdir()
+
+            target = outside_dir / "SKILL.md"
+            original = """---
+name: outside
+description: "This description is truncated..."
+---
+
+# Outside
+
+This paragraph should never be written back through a symlink.
+"""
+            target.write_text(original, encoding="utf-8")
+            skill_path = skill_dir / "SKILL.md"
+            skill_path.symlink_to(target)
+
+            changed, new_description = fix_truncated_descriptions.update_skill_file(skill_path)
+
+            self.assertFalse(changed)
+            self.assertIsNone(new_description)
+            self.assertEqual(target.read_text(encoding="utf-8"), original)
+
 
 if __name__ == "__main__":
     unittest.main()

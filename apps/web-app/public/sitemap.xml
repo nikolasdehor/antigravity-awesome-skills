@@ -1,248 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/astro</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/clarvia-aeo-check</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/hono</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/adhx</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/openclaw-github-repo-commander</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/app-store-changelog</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/pydantic-ai</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/github</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/sveltekit</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/ios-debugger-agent</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/goldrush-api</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/macos-menubar-tuist-app</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/progressive-web-app</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/macos-spm-app-packaging</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/trpc-fullstack</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/orchestrate-batch-refactor</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/vibers-code-review</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/project-skill-audit</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/ai-engineering-toolkit</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/react-component-performance</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/ai-native-cli</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/simplify-code</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/latex-paper-conversion</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/swift-concurrency-expert</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/antigravity-skill-orchestrator</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/swiftui-liquid-glass</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/k6-load-testing</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/swiftui-performance-audit</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/recallmax</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/swiftui-ui-patterns</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/tool-use-guardian</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/swiftui-view-refactor</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/acceptance-orchestrator</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/aegisops-ai</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/closed-loop-delivery</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/snowflake-development</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/create-issue-gate</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/jobgpt</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/electron-development</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/moyu</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/llm-structured-output</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/xvary-stock-research</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/ai-md</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/gdb-cli</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/explain-like-socrates</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/ad-creative</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/interview-coach</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/ai-seo</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/keyword-extractor</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/churn-prevention</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/local-llm-expert</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/claude-api</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/skill-check</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/cold-email</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/yes-md</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/content-strategy</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/blueprint</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/defuddle</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/lex</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/internal-comms</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/pipecat-friday-agent</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/json-canvas</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/progressive-estimation</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/lead-magnets</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/sankhya-dashboard-html-jsp-custom-best-pratices</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/obsidian-bases</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/seek-and-analyze-video</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/obsidian-cli</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/animejs-animation</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/obsidian-markdown</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/antigravity-design-expert</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/product-marketing-context</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/audit-skills</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/revops</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/daily</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/sales-enablement</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/design-spells</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/seo</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost/antigravity-awesome-skills/skill/frontend-slides</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>http://localhost/skill/seo-competitor-pages</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

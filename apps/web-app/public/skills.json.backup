@@ -120,6 +120,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "ad-creative",
+    "path": "skills/ad-creative",
+    "category": "uncategorized",
+    "name": "ad-creative",
+    "description": "Create, iterate, and scale paid ad creative for Google Ads, Meta, LinkedIn, TikTok, and similar platforms. Use when generating headlines, descriptions, primary text, or large sets of ad variations for testing and performance optimization.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "address-github-comments",
     "path": "skills/address-github-comments",
     "category": "workflow",
@@ -128,6 +138,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "adhx",
+    "path": "skills/adhx",
+    "category": "uncategorized",
+    "name": "adhx",
+    "description": "Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping or browser required.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-25"
   },
   {
     "id": "advanced-evaluation",
@@ -158,6 +178,16 @@
     "risk": "safe",
     "source": "community",
     "date_added": "2026-03-06"
+  },
+  {
+    "id": "aegisops-ai",
+    "path": "skills/aegisops-ai",
+    "category": "devops",
+    "name": "aegisops-ai",
+    "description": "Autonomous DevSecOps & FinOps Guardrails. Orchestrates Gemini 3 Flash to audit Linux Kernel patches, Terraform cost drifts, and K8s compliance.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-24"
   },
   {
     "id": "agent-evaluation",
@@ -388,6 +418,16 @@
     "risk": "unknown",
     "source": "vibeship-spawner-skills (Apache 2.0)",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "ai-seo",
+    "path": "skills/ai-seo",
+    "category": "ai-ml",
+    "name": "ai-seo",
+    "description": "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "ai-studio-image",
@@ -868,6 +908,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "app-store-changelog",
+    "path": "skills/app-store-changelog",
+    "category": "uncategorized",
+    "name": "app-store-changelog",
+    "description": "Generate user-facing App Store release notes from git history since the last tag.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "app-store-optimization",
@@ -2404,7 +2454,7 @@
     "path": "skills/backend-dev-guidelines",
     "category": "backend",
     "name": "backend-dev-guidelines",
-    "description": "(Node.js \u00b7 Express \u00b7 TypeScript \u00b7 Microservices)",
+    "description": "You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints. Use when routes, controllers, services, repositories, express middleware, or prisma database access.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -2548,6 +2598,26 @@
     "risk": "unknown",
     "source": "community",
     "date_added": null
+  },
+  {
+    "id": "bdistill-behavioral-xray",
+    "path": "skills/bdistill-behavioral-xray",
+    "category": "ai-testing",
+    "name": "bdistill-behavioral-xray",
+    "description": "X-ray any AI model's behavioral patterns \u2014 refusal boundaries, hallucination tendencies, reasoning style, formatting defaults. No API key needed.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-20"
+  },
+  {
+    "id": "bdistill-knowledge-extraction",
+    "path": "skills/bdistill-knowledge-extraction",
+    "category": "ai-research",
+    "name": "bdistill-knowledge-extraction",
+    "description": "Extract structured domain knowledge from AI models in-session or from local open-source models via Ollama. No API key needed.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-20"
   },
   {
     "id": "beautiful-prose",
@@ -3034,7 +3104,7 @@
     "path": "skills/cc-skill-security-review",
     "category": "meta",
     "name": "cc-skill-security-review",
-    "description": "This skill ensures all code follows security best practices and identifies potential vulnerabilities.",
+    "description": "This skill ensures all code follows security best practices and identifies potential vulnerabilities. Use when implementing authentication or authorization, handling user input or file uploads, or creating new API endpoints.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -3088,6 +3158,16 @@
     "risk": "safe",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "churn-prevention",
+    "path": "skills/churn-prevention",
+    "category": "uncategorized",
+    "name": "churn-prevention",
+    "description": "Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy. Use when users are cancelling, failed payments are rising, or subscription retention needs improvement.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "cicd-automation-workflow-automate",
@@ -3150,6 +3230,16 @@
     "date_added": null
   },
   {
+    "id": "clarvia-aeo-check",
+    "path": "skills/clarvia-aeo-check",
+    "category": "tool-quality",
+    "name": "clarvia-aeo-check",
+    "description": "Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Search 15,400+ indexed tools before adding them to your workflow.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-27"
+  },
+  {
     "id": "claude-ally-health",
     "path": "skills/claude-ally-health",
     "category": "ai-ml",
@@ -3158,6 +3248,16 @@
     "risk": "safe",
     "source": "https://github.com/huifer/Claude-Ally-Health",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "claude-api",
+    "path": "skills/claude-api",
+    "category": "ai-ml",
+    "name": "claude-api",
+    "description": "Build apps with the Claude API or Anthropic SDK. TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`/`claude_agent_sdk`, or user asks to use Claude API, Anthropic SDKs, or Agent SDK. DO NOT TRIGGER when: code imports `openai`/other AI SDK, general programming, or ML/data-science tasks.",
+    "risk": "unknown",
+    "source": "https://github.com/anthropics/skills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "claude-code-expert",
@@ -3504,10 +3604,20 @@
     "path": "skills/codex-review",
     "category": "code-quality",
     "name": "codex-review",
-    "description": "Professional code review with auto CHANGELOG generation, integrated with Codex AI",
+    "description": "Professional code review with auto CHANGELOG generation, integrated with Codex AI. Use when you want professional code review before commits, you need automatic CHANGELOG generation, or reviewing large-scale refactoring.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "cold-email",
+    "path": "skills/cold-email",
+    "category": "uncategorized",
+    "name": "cold-email",
+    "description": "Write B2B cold emails and follow-up sequences that earn replies. Use when creating outbound prospecting emails, SDR outreach, personalized opening lines, subject lines, CTAs, and multi-touch follow-up sequences.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "comfyui-gateway",
@@ -3710,6 +3820,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "content-strategy",
+    "path": "skills/content-strategy",
+    "category": "uncategorized",
+    "name": "content-strategy",
+    "description": "Plan a content strategy, topic clusters, editorial roadmap, and content mix for traffic, authority, and lead generation. Use when deciding what to publish, what topics to prioritize, or how to structure a content program.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "context-agent",
     "path": "skills/context-agent",
     "category": "ai-ml",
@@ -3824,7 +3944,7 @@
     "path": "skills/context7-auto-research",
     "category": "meta",
     "name": "context7-auto-research",
-    "description": "Automatically fetch latest library/framework documentation for Claude Code via Context7 API",
+    "description": "Automatically fetch latest library/framework documentation for Claude Code via Context7 API. Use when you need up-to-date documentation for libraries and frameworks or asking about React, Next.js, Prisma, or any other popular library.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -4214,7 +4334,7 @@
     "path": "skills/dbos-golang",
     "category": "development",
     "name": "dbos-golang",
-    "description": "Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows.",
+    "description": "Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows. Use when adding DBOS to existing Go code, creating workflows and steps, or using queues for concurrency control.",
     "risk": "safe",
     "source": "https://docs.dbos.dev/",
     "date_added": "2026-02-27"
@@ -4224,7 +4344,7 @@
     "path": "skills/dbos-python",
     "category": "development",
     "name": "dbos-python",
-    "description": "Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows.",
+    "description": "Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows. Use when adding DBOS to existing Python code, creating workflows and steps, or using queues for concurrency control.",
     "risk": "safe",
     "source": "https://docs.dbos.dev/",
     "date_added": "2026-02-27"
@@ -4234,7 +4354,7 @@
     "path": "skills/dbos-typescript",
     "category": "development",
     "name": "dbos-typescript",
-    "description": "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows.",
+    "description": "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control.",
     "risk": "safe",
     "source": "https://docs.dbos.dev/",
     "date_added": "2026-02-27"
@@ -4284,7 +4404,7 @@
     "path": "skills/debug-buttercup",
     "category": "uncategorized",
     "name": "debug-buttercup",
-    "description": "All pods run in namespace crs. Key services:",
+    "description": "All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unresponsive or showing AOF warnings.",
     "risk": "unknown",
     "source": "community",
     "date_added": null
@@ -4338,6 +4458,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "defuddle",
+    "path": "skills/defuddle",
+    "category": "content",
+    "name": "defuddle",
+    "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+    "risk": "unknown",
+    "source": "https://github.com/kepano/obsidian-skills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "dependency-management-deps-audit",
@@ -4984,7 +5114,7 @@
     "path": "skills/evaluation",
     "category": "ai-ml",
     "name": "evaluation",
-    "description": "Build evaluation frameworks for agent systems",
+    "description": "Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time.",
     "risk": "safe",
     "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation",
     "date_added": "2026-02-27"
@@ -5024,7 +5154,7 @@
     "path": "skills/exa-search",
     "category": "data-ai",
     "name": "exa-search",
-    "description": "Semantic search, similar content discovery, and structured research using Exa API",
+    "description": "Semantic search, similar content discovery, and structured research using Exa API. Use when you need semantic/embeddings-based search, finding similar content, or searching by category (company, people, research papers, etc.).",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -5354,7 +5484,7 @@
     "path": "skills/firecrawl-scraper",
     "category": "data",
     "name": "firecrawl-scraper",
-    "description": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API",
+    "description": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API. Use when you need deep content extraction from web pages, page interaction is required (clicking, scrolling, etc.), or you want screenshots or PDF parsing.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -5674,7 +5804,7 @@
     "path": "skills/frontend-dev-guidelines",
     "category": "front-end",
     "name": "frontend-dev-guidelines",
-    "description": "(React \u00b7 TypeScript \u00b7 Suspense-First \u00b7 Production-Grade)",
+    "description": "You are a senior frontend engineer operating under strict architectural and performance standards. Use when creating components or pages, adding new features, or fetching or mutating data.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -5800,6 +5930,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "gdb-cli",
+    "path": "skills/gdb-cli",
+    "category": "development",
+    "name": "gdb-cli",
+    "description": "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation",
+    "risk": "critical",
+    "source": "community",
+    "date_added": "2026-03-22"
+  },
+  {
     "id": "gdpr-data-handling",
     "path": "skills/gdpr-data-handling",
     "category": "security",
@@ -5865,9 +6005,9 @@
     "category": "security",
     "name": "gha-security-review",
     "description": "Find exploitable vulnerabilities in GitHub Actions workflows. Every finding MUST include a concrete exploitation scenario \u2014 if you can't build the attack, don't report it.",
-    "risk": "unknown",
+    "risk": "safe",
     "source": "community",
-    "date_added": null
+    "date_added": "2026-03-16"
   },
   {
     "id": "git-advanced-workflows",
@@ -5924,10 +6064,20 @@
     "path": "skills/git-pushing",
     "category": "workflow",
     "name": "git-pushing",
-    "description": "Stage all changes, create a conventional commit, and push to the remote branch.",
+    "description": "Stage all changes, create a conventional commit, and push to the remote branch. Use when explicitly asks to push changes (\"push this\", \"commit and push\"), mentions saving work to remote (\"save to github\", \"push to remote\"), or completes a feature and wants to share it.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "github",
+    "path": "skills/github",
+    "category": "uncategorized",
+    "name": "github",
+    "description": "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "github-actions-templates",
@@ -6078,16 +6228,6 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
-  },
-  {
-    "id": "goldrush-api",
-    "path": "skills/goldrush-api",
-    "category": "blockchain",
-    "name": "goldrush-api",
-    "description": "Query blockchain data across 100+ chains: wallet balances, token prices, transactions, DEX pairs, and real-time OHLCV streams via the GoldRush API by Covalent.",
-    "risk": "safe",
-    "source": "community",
-    "date_added": "2026-03-17"
   },
   {
     "id": "google-analytics-automation",
@@ -6750,6 +6890,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "internal-comms",
+    "path": "skills/internal-comms",
+    "category": "uncategorized",
+    "name": "internal-comms",
+    "description": "Write internal communications such as status reports, leadership updates, 3P updates, newsletters, FAQs, incident reports, and project updates using repeatable internal formats.",
+    "risk": "unknown",
+    "source": "https://github.com/anthropics/skills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "internal-comms-anthropic",
     "path": "skills/internal-comms-anthropic",
     "category": "content",
@@ -6788,6 +6938,16 @@
     "risk": "safe",
     "source": "https://github.com/ai-evos/agent-skills",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "ios-debugger-agent",
+    "path": "skills/ios-debugger-agent",
+    "category": "mobile",
+    "name": "ios-debugger-agent",
+    "description": "Debug the current iOS project on a booted simulator with XcodeBuildMCP.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "ios-developer",
@@ -6888,6 +7048,26 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "jobgpt",
+    "path": "skills/jobgpt",
+    "category": "uncategorized",
+    "name": "jobgpt",
+    "description": "Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-23"
+  },
+  {
+    "id": "json-canvas",
+    "path": "skills/json-canvas",
+    "category": "uncategorized",
+    "name": "json-canvas",
+    "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+    "risk": "unknown",
+    "source": "https://github.com/kepano/obsidian-skills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "julia-pro",
@@ -7098,6 +7278,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "lead-magnets",
+    "path": "skills/lead-magnets",
+    "category": "uncategorized",
+    "name": "lead-magnets",
+    "description": "Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "legacy-modernizer",
@@ -7470,6 +7660,26 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "macos-menubar-tuist-app",
+    "path": "skills/macos-menubar-tuist-app",
+    "category": "uncategorized",
+    "name": "macos-menubar-tuist-app",
+    "description": "Build, refactor, or review SwiftUI macOS menubar apps that use Tuist.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "macos-spm-app-packaging",
+    "path": "skills/macos-spm-app-packaging",
+    "category": "uncategorized",
+    "name": "macos-spm-app-packaging",
+    "description": "Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "magic-animator",
     "path": "skills/magic-animator",
     "category": "uncategorized",
@@ -7764,7 +7974,7 @@
     "path": "skills/memory-systems",
     "category": "memory",
     "name": "memory-systems",
-    "description": "Design short-term, long-term, and graph-based memory architectures",
+    "description": "Design short-term, long-term, and graph-based memory architectures. Use when building agents that must persist across sessions, needing to maintain entity consistency across conversations, or implementing reasoning over accumulated knowledge.",
     "risk": "safe",
     "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems",
     "date_added": "2026-02-27"
@@ -8008,6 +8218,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "moyu",
+    "path": "skills/moyu",
+    "category": "ai-ml",
+    "name": "moyu",
+    "description": "Anti-over-engineering guardrail that activates when an AI coding agent expands scope, adds abstractions, or changes files the user did not request.\n",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-23"
   },
   {
     "id": "mtls-configuration",
@@ -8400,6 +8620,26 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "obsidian-bases",
+    "path": "skills/obsidian-bases",
+    "category": "uncategorized",
+    "name": "obsidian-bases",
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+    "risk": "unknown",
+    "source": "https://github.com/kepano/obsidian-skills",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "obsidian-cli",
+    "path": "skills/obsidian-cli",
+    "category": "uncategorized",
+    "name": "obsidian-cli",
+    "description": "Use the Obsidian CLI to read, create, search, and manage vault content, or to develop and debug Obsidian plugins and themes from the command line.",
+    "risk": "unknown",
+    "source": "https://github.com/kepano/obsidian-skills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "obsidian-clipper-template-creator",
     "path": "skills/obsidian-clipper-template-creator",
     "category": "uncategorized",
@@ -8408,6 +8648,16 @@
     "risk": "safe",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "obsidian-markdown",
+    "path": "skills/obsidian-markdown",
+    "category": "uncategorized",
+    "name": "obsidian-markdown",
+    "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+    "risk": "unknown",
+    "source": "https://github.com/kepano/obsidian-skills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "occupational-health-analyzer",
@@ -8728,6 +8978,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": null
+  },
+  {
+    "id": "orchestrate-batch-refactor",
+    "path": "skills/orchestrate-batch-refactor",
+    "category": "uncategorized",
+    "name": "orchestrate-batch-refactor",
+    "description": "Plan and execute large refactors with dependency-aware work packets and parallel analysis.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "os-scripting",
@@ -9260,6 +9520,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "product-marketing-context",
+    "path": "skills/product-marketing-context",
+    "category": "business",
+    "name": "product-marketing-context",
+    "description": "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "production-code-audit",
     "path": "skills/production-code-audit",
     "category": "architecture",
@@ -9328,6 +9598,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": null
+  },
+  {
+    "id": "project-skill-audit",
+    "path": "skills/project-skill-audit",
+    "category": "uncategorized",
+    "name": "project-skill-audit",
+    "description": "Audit a project and recommend the highest-value skills to add or update.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "projection-patterns",
@@ -9584,10 +9864,20 @@
     "path": "skills/react-best-practices",
     "category": "web-development",
     "name": "react-best-practices",
-    "description": "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Contains 45 rules across 8 categories, prioritized by impact to guide automated refactoring and code generation.",
+    "description": "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "react-component-performance",
+    "path": "skills/react-component-performance",
+    "category": "web-development",
+    "name": "react-component-performance",
+    "description": "Diagnose slow React components and suggest targeted performance fixes.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "react-flow-architect",
@@ -9820,6 +10110,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "revops",
+    "path": "skills/revops",
+    "category": "business",
+    "name": "revops",
+    "description": "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "risk-manager",
     "path": "skills/risk-manager",
     "category": "business",
@@ -9948,6 +10248,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "sales-enablement",
+    "path": "skills/sales-enablement",
+    "category": "uncategorized",
+    "name": "sales-enablement",
+    "description": "Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates. Use when a sales team needs assets that help reps move deals forward and close.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
   },
   {
     "id": "salesforce-automation",
@@ -10300,6 +10610,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "seo",
+    "path": "skills/seo",
+    "category": "content",
+    "name": "seo",
+    "description": "Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "seo-audit",
     "path": "skills/seo-audit",
     "category": "content",
@@ -10328,6 +10648,26 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "seo-competitor-pages",
+    "path": "skills/seo-competitor-pages",
+    "category": "uncategorized",
+    "name": "seo-competitor-pages",
+    "description": "Generate SEO-optimized competitor comparison and alternatives pages. Covers \"X vs Y\" layouts, \"alternatives to X\" pages, feature matrices, schema markup, and conversion optimization. Use when user says \"comparison page\", \"vs page\", \"alternatives page\", \"competitor comparison\", or \"X vs Y\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-content",
+    "path": "skills/seo-content",
+    "category": "content",
+    "name": "seo-content",
+    "description": "Content quality and E-E-A-T analysis with AI citation readiness assessment. Use when user says \"content quality\", \"E-E-A-T\", \"content analysis\", \"readability check\", \"thin content\", or \"content audit\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
   },
   {
     "id": "seo-content-auditor",
@@ -10370,6 +10710,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "seo-dataforseo",
+    "path": "skills/seo-dataforseo",
+    "category": "uncategorized",
+    "name": "seo-dataforseo",
+    "description": "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "seo-forensic-incident-response",
     "path": "skills/seo-forensic-incident-response",
     "category": "content",
@@ -10388,6 +10738,46 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "seo-geo",
+    "path": "skills/seo-geo",
+    "category": "uncategorized",
+    "name": "seo-geo",
+    "description": "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-hreflang",
+    "path": "skills/seo-hreflang",
+    "category": "uncategorized",
+    "name": "seo-hreflang",
+    "description": "Hreflang and international SEO audit, validation, and generation. Detects common mistakes, validates language/region codes, and generates correct hreflang implementations. Use when user says \"hreflang\", \"i18n SEO\", \"international SEO\", \"multi-language\", \"multi-region\", or \"language tags\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-image-gen",
+    "path": "skills/seo-image-gen",
+    "category": "content",
+    "name": "seo-image-gen",
+    "description": "Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-images",
+    "path": "skills/seo-images",
+    "category": "uncategorized",
+    "name": "seo-images",
+    "description": "Image optimization analysis for SEO and performance. Checks alt text, file sizes, formats, responsive images, lazy loading, and CLS prevention. Use when user says \"image optimization\", \"alt text\", \"image SEO\", \"image size\", or \"image audit\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
   },
   {
     "id": "seo-keyword-strategist",
@@ -10410,6 +10800,56 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "seo-page",
+    "path": "skills/seo-page",
+    "category": "uncategorized",
+    "name": "seo-page",
+    "description": "Deep single-page SEO analysis covering on-page elements, content quality, technical meta tags, schema, images, and performance. Use when user says \"analyze this page\", \"check page SEO\", or provides a single URL for review.\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-plan",
+    "path": "skills/seo-plan",
+    "category": "content",
+    "name": "seo-plan",
+    "description": "Strategic SEO planning for new or existing websites. Industry-specific templates, competitive analysis, content strategy, and implementation roadmap. Use when user says \"SEO plan\", \"SEO strategy\", \"content strategy\", \"site architecture\", or \"SEO roadmap\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-programmatic",
+    "path": "skills/seo-programmatic",
+    "category": "uncategorized",
+    "name": "seo-programmatic",
+    "description": "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-schema",
+    "path": "skills/seo-schema",
+    "category": "uncategorized",
+    "name": "seo-schema",
+    "description": "Detect, validate, and generate Schema.org structured data. JSON-LD format preferred. Use when user says \"schema\", \"structured data\", \"rich results\", \"JSON-LD\", or \"markup\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
+    "id": "seo-sitemap",
+    "path": "skills/seo-sitemap",
+    "category": "uncategorized",
+    "name": "seo-sitemap",
+    "description": "Analyze existing XML sitemaps or generate new ones with industry templates. Validates format, URLs, and structure. Use when user says \"sitemap\", \"generate sitemap\", \"sitemap issues\", or \"XML sitemap\".\n",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "seo-snippet-hunter",
     "path": "skills/seo-snippet-hunter",
     "category": "content",
@@ -10428,6 +10868,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "seo-technical",
+    "path": "skills/seo-technical",
+    "category": "web-development",
+    "name": "seo-technical",
+    "description": "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access.",
+    "risk": "unknown",
+    "source": "https://github.com/AgriciDaniel/claude-seo",
+    "date_added": "2026-03-21"
   },
   {
     "id": "server-management",
@@ -10570,6 +11020,26 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "simplify-code",
+    "path": "skills/simplify-code",
+    "category": "uncategorized",
+    "name": "simplify-code",
+    "description": "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "site-architecture",
+    "path": "skills/site-architecture",
+    "category": "architecture",
+    "name": "site-architecture",
+    "description": "Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup.",
+    "risk": "unknown",
+    "source": "https://github.com/coreyhaines31/marketingskills",
+    "date_added": "2026-03-21"
+  },
+  {
     "id": "skill-check",
     "path": "skills/skill-check",
     "category": "development",
@@ -10614,7 +11084,7 @@
     "path": "skills/skill-improver",
     "category": "meta",
     "name": "skill-improver",
-    "description": "Iteratively improve a Claude Code skill using the skill-reviewer agent until it meets quality standards.",
+    "description": "Iteratively improve a Claude Code skill using the skill-reviewer agent until it meets quality standards. Use when improving a skill with multiple quality issues, iterating on a new skill until it meets standards, or automated fix-review cycles instead of manual editing.",
     "risk": "unknown",
     "source": "community",
     "date_added": null
@@ -10758,6 +11228,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "snowflake-development",
+    "path": "skills/snowflake-development",
+    "category": "data-engineering",
+    "name": "snowflake-development",
+    "description": "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, Snowpark Python, dbt integration, performance tuning, and security hardening.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-24"
   },
   {
     "id": "social-content",
@@ -11120,6 +11600,16 @@
     "date_added": "2026-03-18"
   },
   {
+    "id": "swift-concurrency-expert",
+    "path": "skills/swift-concurrency-expert",
+    "category": "uncategorized",
+    "name": "swift-concurrency-expert",
+    "description": "Review and fix Swift concurrency issues such as actor isolation and Sendable violations.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "swiftui-expert-skill",
     "path": "skills/swiftui-expert-skill",
     "category": "mobile",
@@ -11128,6 +11618,46 @@
     "risk": "unknown",
     "source": "community",
     "date_added": null
+  },
+  {
+    "id": "swiftui-liquid-glass",
+    "path": "skills/swiftui-liquid-glass",
+    "category": "mobile",
+    "name": "swiftui-liquid-glass",
+    "description": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-performance-audit",
+    "path": "skills/swiftui-performance-audit",
+    "category": "mobile",
+    "name": "swiftui-performance-audit",
+    "description": "Audit SwiftUI performance issues from code review and profiling evidence.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-ui-patterns",
+    "path": "skills/swiftui-ui-patterns",
+    "category": "mobile",
+    "name": "swiftui-ui-patterns",
+    "description": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-view-refactor",
+    "path": "skills/swiftui-view-refactor",
+    "category": "mobile",
+    "name": "swiftui-view-refactor",
+    "description": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "sympy",
@@ -11204,7 +11734,7 @@
     "path": "skills/tavily-web",
     "category": "data-ai",
     "name": "tavily-web",
-    "description": "Web search, content extraction, crawling, and research capabilities using Tavily API",
+    "description": "Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -11464,7 +11994,7 @@
     "path": "skills/test-fixing",
     "category": "development-and-testing",
     "name": "test-fixing",
-    "description": "Systematically identify and fix all failing tests using smart grouping strategies.",
+    "description": "Systematically identify and fix all failing tests using smart grouping strategies. Use when explicitly asks to fix tests (\"fix these tests\", \"make tests pass\"), reports test failures (\"tests are failing\", \"test suite is broken\"), or completes implementation and wants tests passing.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -11652,9 +12182,9 @@
   {
     "id": "tool-design",
     "path": "skills/tool-design",
-    "category": "uncategorized",
+    "category": "ai-ml",
     "name": "tool-design",
-    "description": "Build tools that agents can use effectively, including architectural reduction patterns",
+    "description": "Build tools that agents can use effectively, including architectural reduction patterns. Use when creating new tools for agent systems, debugging tool-related failures or misuse, or optimizing existing tool sets for better agent performance.",
     "risk": "safe",
     "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design",
     "date_added": "2026-02-27"
@@ -11824,7 +12354,7 @@
     "path": "skills/ui-ux-pro-max",
     "category": "front-end",
     "name": "ui-ux-pro-max",
-    "description": "Comprehensive design guide for web and mobile applications. Contains 50+ styles, 97 color palettes, 57 font pairings, 99 UX guidelines, and 25 chart types across 9 technology stacks. Searchable database with priority-based recommendations.",
+    "description": "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12054,7 +12584,7 @@
     "path": "skills/verification-before-completion",
     "category": "workflow",
     "name": "verification-before-completion",
-    "description": "Claiming work is complete without verification is dishonesty, not efficiency.",
+    "description": "Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12354,7 +12884,7 @@
     "path": "skills/wiki-changelog",
     "category": "content",
     "name": "wiki-changelog",
-    "description": "Generate structured changelogs from git history.",
+    "description": "Generate structured changelogs from git history. Use when user asks \"what changed recently\", \"generate a changelog\", \"summarize commits\" or user wants to understand recent development activity.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12364,7 +12894,7 @@
     "path": "skills/wiki-onboarding",
     "category": "content",
     "name": "wiki-onboarding",
-    "description": "Generate two complementary onboarding documents that together give any engineer \u2014 from newcomer to principal \u2014 a complete understanding of a codebase.",
+    "description": "Generate two complementary onboarding documents that together give any engineer \u2014 from newcomer to principal \u2014 a complete understanding of a codebase. Use when user asks for onboarding docs or getting-started guides, user runs /deep-wiki, or user wants to help new team members understand a codebase.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12384,7 +12914,7 @@
     "path": "skills/wiki-qa",
     "category": "content",
     "name": "wiki-qa",
-    "description": "Answer repository questions grounded entirely in source code evidence.",
+    "description": "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\".",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12394,7 +12924,7 @@
     "path": "skills/wiki-researcher",
     "category": "content",
     "name": "wiki-researcher",
-    "description": "You are an expert software engineer and systems analyst. Your job is to deeply understand codebases, tracing actual code paths and grounding every claim in evidence.",
+    "description": "You are an expert software engineer and systems analyst. Use when user asks \"how does X work\" with expectation of depth, user wants to understand a complex system spanning many files, or user asks for architectural analysis or pattern investigation.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12404,7 +12934,7 @@
     "path": "skills/wiki-vitepress",
     "category": "content",
     "name": "wiki-vitepress",
-    "description": "Transform generated wiki Markdown files into a polished VitePress static site with dark theme and interactive Mermaid diagrams.",
+    "description": "Transform generated wiki Markdown files into a polished VitePress static site with dark theme and interactive Mermaid diagrams. Use when user asks to \"build a site\" or \"package as VitePress\", user runs the /deep-wiki, or user wants a browsable HTML output from generated wiki pages.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12418,6 +12948,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "windows-shell-reliability",
+    "path": "skills/windows-shell-reliability",
+    "category": "uncategorized",
+    "name": "windows-shell-reliability",
+    "description": "Reliable command execution on Windows: paths, encoding, and common binary pitfalls.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-19"
   },
   {
     "id": "wireshark-analysis",
@@ -12434,7 +12974,7 @@
     "path": "skills/wordpress",
     "category": "workflow-bundle",
     "name": "wordpress",
-    "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening.",
+    "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
     "risk": "safe",
     "source": "personal",
     "date_added": "2026-02-27"
@@ -12444,7 +12984,7 @@
     "path": "skills/wordpress-penetration-testing",
     "category": "security",
     "name": "wordpress-penetration-testing",
-    "description": "Conduct comprehensive security assessments of WordPress installations including enumeration of users, themes, and plugins, vulnerability scanning, credential attacks, and exploitation techniques. WordPress powers approximately 35% of websites, making it a critical target for security testing.",
+    "description": "Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces.",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -12454,7 +12994,7 @@
     "path": "skills/wordpress-plugin-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-plugin-development",
-    "description": "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, and security best practices.",
+    "description": "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, security best practices, and WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
     "risk": "safe",
     "source": "personal",
     "date_added": "2026-02-27"
@@ -12464,7 +13004,7 @@
     "path": "skills/wordpress-theme-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-theme-development",
-    "description": "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, and responsive design.",
+    "description": "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, responsive design, and WordPress 7.0 features: DataViews, Pattern Editing, Navigation Overlays, and admin refresh.",
     "risk": "safe",
     "source": "personal",
     "date_added": "2026-02-27"
@@ -12474,7 +13014,7 @@
     "path": "skills/wordpress-woocommerce-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-woocommerce-development",
-    "description": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, and customization.",
+    "description": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, customization, and WordPress 7.0 features: AI connectors, DataViews, and collaboration tools.",
     "risk": "safe",
     "source": "personal",
     "date_added": "2026-02-27"
@@ -12588,6 +13128,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "xvary-stock-research",
+    "path": "skills/xvary-stock-research",
+    "category": "uncategorized",
+    "name": "xvary-stock-research",
+    "description": "Thesis-driven equity analysis from public SEC EDGAR and market data; /analyze, /score, /compare workflows with bundled Python tools (Claude Code, Cursor, Codex).",
+    "risk": "unknown",
+    "source": "community",
+    "date_added": "2026-03-23"
   },
   {
     "id": "yann-lecun",

@@ -199,19 +199,22 @@ function installForTarget(tempDir, target) {
     const gitDir = path.join(target.path, ".git");
     if (fs.existsSync(gitDir)) {
       console.log(`  Migrating from full-repo install to skills-only layout…`);
-      const entries = fs.readdirSync(target.path);
-      for (const name of entries) {
-        const full = path.join(target.path, name);
-        const stat = fs.lstatSync(full);
-        if (stat.isDirectory() && !stat.isSymbolicLink()) {
-          if (fs.rmSync) {
-            fs.rmSync(full, { recursive: true, force: true });
-          } else {
-            fs.rmdirSync(full, { recursive: true });
-          }
+      const backupPath = `${target.path}_backup_${Date.now()}`;
+      try { 
+        const stats = fs.lstatSync(target.path);
+        const isSymlink = stats.isSymbolicLink();
+        const symlinkTarget = isSymlink ? 
+        fs.readlinkSync(target.path) : null;
+        fs.renameSync(target.path, backupPath);
+        console.log(`  ⚠️  Safety Backup created at: ${backupPath}`);
+        if (isSymlink) {
+          fs.symlinkSync(symlinkTarget, target.path, 'dir');
         } else {
-          fs.unlinkSync(full);
+          fs.mkdirSync(target.path, { recursive: true, mode: stats.mode });
         }
+      } catch (err) {
+        console.error(`  Migration Error: ${err.message}`);
+        process.exit(1);
       }
     } else {
       console.log(`  Updating existing install at ${target.path}…`);
@@ -231,6 +234,23 @@ function installForTarget(tempDir, target) {
 
   installSkillsIntoTarget(tempDir, target.path);
   console.log(`  ✓ Installed to ${target.path}`);
+}
+
+function getPostInstallMessages(targets) {
+  const messages = [
+    "Pick a bundle in docs/users/bundles.md and use @skill-name in your AI assistant.",
+  ];
+
+  if (targets.some((target) => target.name === "Antigravity")) {
+    messages.push(
+      "If Antigravity hits context/truncation limits, see docs/users/agent-overload-recovery.md",
+    );
+    messages.push(
+      "For clone-based installs, use scripts/activate-skills.sh or scripts/activate-skills.bat",
+    );
+  }
+
+  return messages;
 }
 
 function main() {
@@ -277,9 +297,9 @@ function main() {
       installForTarget(tempDir, target);
     }
 
-    console.log(
-      "\nPick a bundle in docs/users/bundles.md and use @skill-name in your AI assistant.",
-    );
+    for (const message of getPostInstallMessages(targets)) {
+      console.log(`\n${message}`);
+    }
   } finally {
     try {
       if (fs.existsSync(tempDir)) {
@@ -301,6 +321,7 @@ if (require.main === module) {
 
 module.exports = {
   copyRecursiveSync,
+  getPostInstallMessages,
   installSkillsIntoTarget,
   installForTarget,
   main,

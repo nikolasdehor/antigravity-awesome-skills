@@ -80,7 +80,26 @@ Before ANY commit that adds/modifies skills, run the chain:
     npm run catalog
     ```
 
-3.  **COMMIT GENERATED FILES**:
+3.  **Optional maintainer sweep shortcut**:
+    ```bash
+    npm run sync:repo-state
+    ```
+    This wraps `chain + catalog + sync:web-assets + sync:contributors + audit:consistency` for a full local repo-state refresh.
+    The scheduled GitHub Actions workflow `Repo Hygiene` runs this same sweep weekly to catch slow drift on `main`.
+    It also enforces the frozen validation warning budget, so new warnings do not creep in silently while the legacy `135` known warnings remain accepted.
+
+    When you need the live GitHub repo metadata updated too, run:
+
+    ```bash
+    npm run sync:github-about
+    npm run audit:consistency:github
+    ```
+    For a read-only summary of current repo health, run:
+    ```bash
+    npm run audit:maintainer
+    ```
+
+4.  **COMMIT GENERATED FILES**:
     ```bash
     git add README.md skills_index.json data/skills_index.json data/catalog.json data/bundles.json data/aliases.json CATALOG.md
     git commit -m "chore: sync generated files"
@@ -180,8 +199,9 @@ We used this flow for PRs [#220](https://github.com/sickn33/antigravity-awesome-
 After you have merged several PRs or before cutting a release:
 
 1.  **Sync Contributors List**:
-    - Run: `git shortlog -sn --all`
-    - Update `## Repo Contributors` in README.md.
+    - Run: `npm run sync:contributors`
+    - This refreshes `## Repo Contributors` in `README.md` from the live GitHub contributor list while preserving custom bot/app links.
+    - If you are already doing a full maintainer sweep, prefer `npm run sync:repo-state`.
 
 2.  **Verify Table of Contents**:
     - Ensure all new headers have clean anchors.
@@ -291,6 +311,7 @@ Preflight verification → Changelog → `npm run release:prepare -- X.Y.Z` → 
     ```bash
     npm run release:preflight
     ```
+    This now runs the deterministic `sync:release-state` path, refreshes tracked web assets, executes the local test suite, runs the web-app build, and performs `npm pack --dry-run --json` before a release is considered healthy.
     Optional diagnostic pass:
     ```bash
     npm run validate:strict
@@ -312,6 +333,7 @@ Preflight verification → Changelog → `npm run release:prepare -- X.Y.Z` → 
     ```
 
     **Important:** The release tag must match `package.json`'s version. The [Publish to npm](workflows/publish-npm.yml) workflow runs on **Release published** and will run `npm publish`; npm rejects republishing the same version.
+    Before publishing, that workflow re-runs `sync:release-state`, checks for canonical drift with `git diff --exit-code`, runs tests/docs security/web build, and performs `npm pack --dry-run --json`.
 
     _Or create the release manually via GitHub UI > Releases > Draft a new release, then publish._
 
