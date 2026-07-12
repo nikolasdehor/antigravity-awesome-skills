@@ -29,3 +29,35 @@ scripts/*count*.py
 
 # Optional baseline for legacy JS validator (scripts/validate-skills.js)
 validation-baseline.json
+
+# Agent and local tooling caches
+.coverage
+.coverage.*
+htmlcov/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.next/
+.turbo/
+.vite/
+tmp/
+temp/
+.codex/
+.codex-cache/
+.agents/cache/
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.v3/
+.claude/settings.local.json
+.claude/cache/
+.claude/logs/
+.gemini/tmp/
+.serena/cache/
+.continue/cache/
+.playwright-mcp/
+playwright-report/
+test-results/
+agent-browser*.png
+browser-use*.log
