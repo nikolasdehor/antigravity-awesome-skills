@@ -665,7 +665,6 @@ We officially thank the following contributors for their help in making this rep
 - [@sarveshtalele](https://github.com/sarveshtalele)
 - [@Suraj1235](https://github.com/Suraj1235)
 - [@valka465](https://github.com/valka465)
-- [@yehudalevy-collab](https://github.com/yehudalevy-collab)
 - [@anthony-chaudhary](https://github.com/anthony-chaudhary)
 - [@mbenhard](https://github.com/mbenhard)
 - [@Prince-1652](https://github.com/Prince-1652)
@@ -717,6 +716,18 @@ We officially thank the following contributors for their help in making this rep
 - [@ThibautMelen](https://github.com/ThibautMelen)
 - [@zenlee123](https://github.com/zenlee123)
 - [@zyu51847-maker](https://github.com/zyu51847-maker)
+- [@0xsarwagya](https://github.com/0xsarwagya)
+- [@alen-hh](https://github.com/alen-hh)
+- [@Antheurus](https://github.com/Antheurus)
+- [@himanshub42](https://github.com/himanshub42)
+- [@JunsW](https://github.com/JunsW)
+- [@kimtth](https://github.com/kimtth)
+- [@ohad6k](https://github.com/ohad6k)
+- [@Optim-Agent](https://github.com/Optim-Agent)
+- [@Rudra-G-23](https://github.com/Rudra-G-23)
+- [@Simon-He95](https://github.com/Simon-He95)
+- [@Siphon880gh](https://github.com/Siphon880gh)
+- [@ymxlx](https://github.com/ymxlx)
 
 ## Star History
 
