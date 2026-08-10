@@ -739,6 +739,13 @@ We officially thank the following contributors for their help in making this rep
 - [@sudosubin](https://github.com/sudosubin)
 - [@taliviagroup](https://github.com/taliviagroup)
 - [@thecsdoctor](https://github.com/thecsdoctor)
+- [@alfredtech2026](https://github.com/alfredtech2026)
+- [@AntonioCardenas](https://github.com/AntonioCardenas)
+- [@BlueSkyID666](https://github.com/BlueSkyID666)
+- [@Jess-yaozu](https://github.com/Jess-yaozu)
+- [@lorocopey-ocs](https://github.com/lorocopey-ocs)
+- [@pagefarms](https://github.com/pagefarms)
+- [@saudademjj](https://github.com/saudademjj)
 
 ## Star History
 
