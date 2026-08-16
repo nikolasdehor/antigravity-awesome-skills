@@ -748,6 +748,8 @@ We officially thank the following contributors for their help in making this rep
 - [@saudademjj](https://github.com/saudademjj)
 - [@binyangzhu000-sudo](https://github.com/binyangzhu000-sudo)
 - [@zillapi](https://github.com/zillapi)
+- [@lodar](https://github.com/lodar)
+- [@pranshuchittora](https://github.com/pranshuchittora)
 
 ## Star History
 
