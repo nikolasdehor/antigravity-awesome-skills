@@ -46,6 +46,8 @@ jobs:
             --write-step-summary
 
       - name: Enforce PR source-only contract
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
         run: |
           if [ "${{ steps.intake.outputs.direct_derived_changes_count }}" != "0" ]; then
             echo "Pull requests must stay source-only."
@@ -53,7 +55,13 @@ jobs:
             exit 1
           fi
 
-          if [ "${{ steps.intake.outputs.has_quality_checklist }}" != "true" ]; then
+          # Bots de dependencia abrem PR pelo template deles e nunca marcam o
+          # checklist humano. Exigir isso deixa toda PR do Dependabot vermelha
+          # para sempre, bloqueando ate as atualizacoes de seguranca.
+          if [ "$PR_AUTHOR" = "dependabot[bot]" ] || [ "$PR_AUTHOR" = "renovate[bot]" ] \
+            || [ "$PR_AUTHOR" = "github-actions[bot]" ]; then
+            echo "::notice::Autor $PR_AUTHOR e bot de dependencia: checklist humano dispensado."
+          elif [ "${{ steps.intake.outputs.has_quality_checklist }}" != "true" ]; then
             echo "PR body must include the Quality Bar Checklist from the template."
             exit 1
           fi
