@@ -750,6 +750,9 @@ We officially thank the following contributors for their help in making this rep
 - [@zillapi](https://github.com/zillapi)
 - [@lodar](https://github.com/lodar)
 - [@pranshuchittora](https://github.com/pranshuchittora)
+- [@3516027002att-ui](https://github.com/3516027002att-ui)
+- [@JanYork](https://github.com/JanYork)
+- [@rjvkn](https://github.com/rjvkn)
 
 ## Star History
 
