@@ -543,7 +543,6 @@ We officially thank the following contributors for their help in making this rep
 - [@conorbronsdon](https://github.com/conorbronsdon)
 - [@RoundTable02](https://github.com/RoundTable02)
 - [@ChaosRealmsAI](https://github.com/ChaosRealmsAI)
-- [@kriptoburak](https://github.com/kriptoburak)
 - [@BenedictKing](https://github.com/BenedictKing)
 - [@acbhatt12](https://github.com/acbhatt12)
 - [@Andruia](https://github.com/Andruia)
@@ -696,7 +695,6 @@ We officially thank the following contributors for their help in making this rep
 - [@m1amgn](https://github.com/m1amgn)
 - [@owengu-ai](https://github.com/owengu-ai)
 - [@SchwartzKamel](https://github.com/SchwartzKamel)
-- [@skiffer](https://github.com/skiffer)
 - [@atdy](https://github.com/atdy)
 - [@cshara1](https://github.com/cshara1)
 - [@Franklyn-R-Silva](https://github.com/Franklyn-R-Silva)
@@ -734,7 +732,6 @@ We officially thank the following contributors for their help in making this rep
 - [@browseract-skill](https://github.com/browseract-skill)
 - [@happy520ai](https://github.com/happy520ai)
 - [@Phelan164](https://github.com/Phelan164)
-- [@sebastionoss](https://github.com/sebastionoss)
 - [@shouryamaanjain](https://github.com/shouryamaanjain)
 - [@sudosubin](https://github.com/sudosubin)
 - [@taliviagroup](https://github.com/taliviagroup)
@@ -760,6 +757,12 @@ We officially thank the following contributors for their help in making this rep
 - [@SfImran](https://github.com/SfImran)
 - [@Whxuan0701](https://github.com/Whxuan0701)
 - [@xiehuan123](https://github.com/xiehuan123)
+- [@263311487-ux](https://github.com/263311487-ux)
+- [@Anil-matcha](https://github.com/Anil-matcha)
+- [@kotobuki09](https://github.com/kotobuki09)
+- [@Linji-x](https://github.com/Linji-x)
+- [@Prajeeth-12](https://github.com/Prajeeth-12)
+- [@rainmanjam](https://github.com/rainmanjam)
 
 ## Star History
 
