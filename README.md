@@ -763,6 +763,11 @@ We officially thank the following contributors for their help in making this rep
 - [@Linji-x](https://github.com/Linji-x)
 - [@Prajeeth-12](https://github.com/Prajeeth-12)
 - [@rainmanjam](https://github.com/rainmanjam)
+- [@CahidArda](https://github.com/CahidArda)
+- [@glukicov](https://github.com/glukicov)
+- [@Junaid-PK](https://github.com/Junaid-PK)
+- [@Sketchjar](https://github.com/Sketchjar)
+- [@sunxiayi](https://github.com/sunxiayi)
 
 ## Star History
 
