@@ -768,6 +768,11 @@ We officially thank the following contributors for their help in making this rep
 - [@Junaid-PK](https://github.com/Junaid-PK)
 - [@Sketchjar](https://github.com/Sketchjar)
 - [@sunxiayi](https://github.com/sunxiayi)
+- [@chenli-yy](https://github.com/chenli-yy)
+- [@georgeatparallel](https://github.com/georgeatparallel)
+- [@liyangbing](https://github.com/liyangbing)
+- [@philip638](https://github.com/philip638)
+- [@xizhuomengcontin](https://github.com/xizhuomengcontin)
 
 ## Star History
 
