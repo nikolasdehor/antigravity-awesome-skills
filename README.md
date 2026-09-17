@@ -780,6 +780,10 @@ We officially thank the following contributors for their help in making this rep
 - [@Pranav-Nexus](https://github.com/Pranav-Nexus)
 - [@siddanta-ar1](https://github.com/siddanta-ar1)
 - [@twoicewoo](https://github.com/twoicewoo)
+- [@jhuang-tt](https://github.com/jhuang-tt)
+- [@jiawood2006](https://github.com/jiawood2006)
+- [@pushkarsingh32](https://github.com/pushkarsingh32)
+- [@ShaunLinTW](https://github.com/ShaunLinTW)
 
 ## Star History
 
