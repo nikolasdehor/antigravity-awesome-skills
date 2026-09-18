@@ -784,6 +784,8 @@ We officially thank the following contributors for their help in making this rep
 - [@jiawood2006](https://github.com/jiawood2006)
 - [@pushkarsingh32](https://github.com/pushkarsingh32)
 - [@ShaunLinTW](https://github.com/ShaunLinTW)
+- [@romankurnovskii](https://github.com/romankurnovskii)
+- [@ShianMike](https://github.com/ShianMike)
 
 ## Star History
 
