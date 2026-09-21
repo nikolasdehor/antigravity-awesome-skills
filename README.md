@@ -786,6 +786,8 @@ We officially thank the following contributors for their help in making this rep
 - [@ShaunLinTW](https://github.com/ShaunLinTW)
 - [@romankurnovskii](https://github.com/romankurnovskii)
 - [@ShianMike](https://github.com/ShianMike)
+- [@shitianfang](https://github.com/shitianfang)
+- [@wwewtech](https://github.com/wwewtech)
 
 ## Star History
 
