@@ -788,6 +788,17 @@ We officially thank the following contributors for their help in making this rep
 - [@ShianMike](https://github.com/ShianMike)
 - [@shitianfang](https://github.com/shitianfang)
 - [@wwewtech](https://github.com/wwewtech)
+- [@axelfreeman](https://github.com/axelfreeman)
+- [@googio](https://github.com/googio)
+- [@HEOJUNFO](https://github.com/HEOJUNFO)
+- [@ianjennings](https://github.com/ianjennings)
+- [@IRONICBo](https://github.com/IRONICBo)
+- [@MuratKaragozgil](https://github.com/MuratKaragozgil)
+- [@OlyaTi](https://github.com/OlyaTi)
+- [@roli-lpci](https://github.com/roli-lpci)
+- [@RomanShprenger](https://github.com/RomanShprenger)
+- [@spicyapi-owner](https://github.com/spicyapi-owner)
+- [@tomelias10](https://github.com/tomelias10)
 
 ## Star History
 
